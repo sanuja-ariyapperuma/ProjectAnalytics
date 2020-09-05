@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmUqnwMo94vy3myJtV2uhpKcpIYkTXmnuEFQtbOUIPD4xnzgqzcgUeBFH7FjI6vQAW5t50hfbQCG4oKBB7mLaw==",
+  "success": true,
+  "projectFilePath": "S:\\Analytics\\AnalyticsDataAccess\\AnalyticsDataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARajm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ARajm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
